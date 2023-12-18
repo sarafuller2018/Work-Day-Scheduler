@@ -16,7 +16,7 @@ The user can input information into each time block. When the user clicks the sa
 
 ## Credits
 
-N/A
+Armando Osorio - tutor
 
 ## License
 
